@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Hsiang-Yun Hwang / Wei-Shiuan Huang
 
 #### Your section leader's name
 
-TODO
+Zhengkang Fan
 
 #### Project title
 
-TODO
+Stock price prediction
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+our code can run the prediction of stock price and draw a graph to comapre the actual price with the predicted price
 
 #### What have you not done for your project yet?
 
-TODO
+the prediction of next day stock price
 
 #### What problems, if any, have you encountered?
 
-TODO
+none
